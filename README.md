@@ -1,8 +1,9 @@
 <p align="center">
-## Hi 👋 I'm Neha Boda
+  <b>Hi 👋 I'm Neha Boda</b>
 </p>
+
 <p align="center">
-## 💻 Passionate Full Stack Developer
+  <b>💻 Passionate Full Stack Developer</b>
 </p>
 
 ## 🚀 About Me
