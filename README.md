@@ -1,6 +1,9 @@
-## Hi there 👋 I'm Neha Boda
-
+<p align="center">
+## Hi 👋 I'm Neha Boda
+</p>
+<p align="center">
 ## 💻 Passionate Full Stack Developer
+</p>
 
 ## 🚀 About Me
 - 🌱 Currently learning **React.js, TypeScipt**
