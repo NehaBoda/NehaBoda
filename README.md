@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Neha Boda
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;JavaScript+Learner;CI%2FCD+%26+Docker+Explorer" />
-</p>
+## 💻 Passionate Full Stack Developer
 
 ## 🚀 About Me
 - 🌱 Currently learning **React.js, TypeScipt**
